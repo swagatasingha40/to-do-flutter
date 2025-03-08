@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This is a basic Flutter To-Do App.
+
+This does not have a backend part but hive is being used to store the data in the phone and working as a basic db.
+
+This is also using 'slidable' widget to create a cool 'delete' animation.
+
+Everything is a widget.
